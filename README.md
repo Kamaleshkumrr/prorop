@@ -1,1 +1,2 @@
 #prorop
+git all
